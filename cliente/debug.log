@@ -1,0 +1,16 @@
+[1123/192315.636:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1123/192315.659:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\La Feria del Cotillo\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\5206a53f-4670-43ea-8fe2-23fba0e98fae: El sistema no puede encontrar la ruta especificada. (0x3)
+[1123/192315.666:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\La Feria del Cotillo\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\88cd3e94-96b6-44d9-b3ca-182538ae2af3: El sistema no puede encontrar la ruta especificada. (0x3)
+[1124/152509.480:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1126/223621.385:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1127/152238.222:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1128/230327.467:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1129/230329.206:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1130/152323.100:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1202/081418.626:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1204/214248.506:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1205/235753.355:ERROR:process_info.cc(359)] UncheckedAllocate
+[1205/235753.420:ERROR:process_info.cc(359)] UncheckedAllocate
+[1205/235753.420:ERROR:process_info.cc(359)] UncheckedAllocate
+[1205/235754.246:ERROR:process_info.cc(359)] UncheckedAllocate
+[1206/003446.656:ERROR:process_info.cc(359)] UncheckedAllocate
